@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "StringParser.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/StringParser.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StringParser.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringParser.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../StringParser.Abstractions/StringParser.Abstractions.csproj",
+      "msbuildProject": "../StringParser.Abstractions/StringParser.Abstractions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "StringParser.Abstractions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/spencerlee/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/StringParser.Services.csproj",
+      "projectName": "StringParser.Services",
+      "projectPath": "/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/StringParser.Services.csproj",
+      "packagesPath": "/Users/spencerlee/.nuget/packages/",
+      "outputPath": "/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/spencerlee/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/StringParser.Abstractions.csproj": {
+              "projectPath": "/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/StringParser.Abstractions.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

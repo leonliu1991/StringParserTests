@@ -1,0 +1,15 @@
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/bin/Debug/net8.0/StringParser.Services.deps.json
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/bin/Debug/net8.0/StringParser.Services.dll
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/bin/Debug/net8.0/StringParser.Services.pdb
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/bin/Debug/net8.0/StringParser.Abstractions.dll
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/bin/Debug/net8.0/StringParser.Abstractions.pdb
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/obj/Debug/net8.0/StringParser.Services.csproj.AssemblyReference.cache
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/obj/Debug/net8.0/StringParser.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/obj/Debug/net8.0/StringParser.Services.AssemblyInfoInputs.cache
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/obj/Debug/net8.0/StringParser.Services.AssemblyInfo.cs
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/obj/Debug/net8.0/StringParser.Services.csproj.CoreCompileInputs.cache
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/obj/Debug/net8.0/StringPa.748326EF.Up2Date
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/obj/Debug/net8.0/StringParser.Services.dll
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/obj/Debug/net8.0/refint/StringParser.Services.dll
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/obj/Debug/net8.0/StringParser.Services.pdb
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Services/obj/Debug/net8.0/ref/StringParser.Services.dll

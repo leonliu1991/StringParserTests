@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "vhm6NKdTE9A033i4k3q4YaoK3x+7oRUNXEZdodtXyW7D6wbZrtPgedH9D8aW9TNIRN+7GOZHoyqewjST/VE8Uw==",
+  "success": true,
+  "projectFilePath": "/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.UnitTests/StringParser.UnitTests.csproj",
+  "expectedPackageFiles": [
+    "/Users/spencerlee/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/diffengine/11.3.0/diffengine.11.3.0.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/emptyfiles/4.4.0/emptyfiles.4.4.0.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/microsoft.codecoverage/17.9.0/microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/microsoft.net.test.sdk/17.9.0/microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/microsoft.testplatform.objectmodel/17.9.0/microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/microsoft.testplatform.testhost/17.9.0/microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/shouldly/4.2.1/shouldly.4.2.1.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/system.codedom/6.0.0/system.codedom.6.0.0.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/system.management/6.0.1/system.management.6.0.1.nupkg.sha512",
+    "/Users/spencerlee/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

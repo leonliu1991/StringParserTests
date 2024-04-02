@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StringParser.Services/1.0.0": {
+        "dependencies": {
+          "StringParser.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "StringParser.Services.dll": {}
+        }
+      },
+      "StringParser.Abstractions/1.0.0": {
+        "runtime": {
+          "StringParser.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringParser.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringParser.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

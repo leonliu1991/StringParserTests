@@ -1,0 +1,11 @@
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/bin/Debug/net8.0/StringParser.Abstractions.deps.json
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/bin/Debug/net8.0/StringParser.Abstractions.dll
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/bin/Debug/net8.0/StringParser.Abstractions.pdb
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/obj/Debug/net8.0/StringParser.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/obj/Debug/net8.0/StringParser.Abstractions.AssemblyInfoInputs.cache
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/obj/Debug/net8.0/StringParser.Abstractions.AssemblyInfo.cs
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/obj/Debug/net8.0/StringParser.Abstractions.csproj.CoreCompileInputs.cache
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/obj/Debug/net8.0/StringParser.Abstractions.dll
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/obj/Debug/net8.0/refint/StringParser.Abstractions.dll
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/obj/Debug/net8.0/StringParser.Abstractions.pdb
+/Users/spencerlee/Downloads/20240305 QA Automation Engineer pre-test/StringParser.Abstractions/obj/Debug/net8.0/ref/StringParser.Abstractions.dll
