@@ -17,6 +17,7 @@ public class StringCollectionParserTests
         _collectionParser = new StringCollectionParser(_stringParserMock.Object);
     }
 
+    //Test when the input contains a single item
     [Test]
     public void PostiveTests_01_TestSingleObjectInTheCollection()
     {
@@ -29,6 +30,7 @@ public class StringCollectionParserTests
         _collectionParser.Parse(testInput).ShouldBe(testInput);
     }
 
+    //Test when the input contains multiple items
     [Test]
     public void PostiveTests_02_TestMultipleObjectsInTheCollection()
     {
@@ -42,6 +44,7 @@ public class StringCollectionParserTests
         _collectionParser.Parse(testInput).ShouldBe(testInput);
     }
 
+    //Test when the input are empty strings
     [Test]
     public void NegativeTests_01_TestEmptyResults()
     {
@@ -59,6 +62,7 @@ public class StringCollectionParserTests
         _collectionParser.Parse(testInput).ShouldBe(expectedOutput);
     }
 
+    //Test when the input items are null
     [Test]
     public void NegativeTests_02_TestNullResults()
     {
